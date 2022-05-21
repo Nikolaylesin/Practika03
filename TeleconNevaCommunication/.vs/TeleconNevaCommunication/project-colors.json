@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94cab2c6-9704-42e6-9070-0e69305348c1": {
+      "ProjectGuid": "94cab2c6-9704-42e6-9070-0e69305348c1",
+      "DisplayName": "CalculationNumberBaseStation",
+      "ColorIndex": 0
+    },
+    "b11b8772-693e-4ccc-b46c-405d8133740d": {
+      "ProjectGuid": "b11b8772-693e-4ccc-b46c-405d8133740d",
+      "DisplayName": "EquipmentSetup",
+      "ColorIndex": 1
+    },
+    "7da74e1f-0939-40dc-9f77-79f496389cbe": {
+      "ProjectGuid": "7da74e1f-0939-40dc-9f77-79f496389cbe",
+      "DisplayName": "StatusControl",
+      "ColorIndex": 2
+    },
+    "c158a1d3-b8cf-4d5d-ae19-07836fddcbc0": {
+      "ProjectGuid": "c158a1d3-b8cf-4d5d-ae19-07836fddcbc0",
+      "DisplayName": "WorkWithSubscribers",
+      "ColorIndex": 3
+    },
+    "5aec7b88-f6c4-4903-a628-a45da05cb762": {
+      "ProjectGuid": "5aec7b88-f6c4-4903-a628-a45da05cb762",
+      "DisplayName": "TeleconNevaCommunication",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
